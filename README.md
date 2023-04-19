@@ -9,4 +9,4 @@
 
 
 ## Work In Progress:
-This is an initial pass at a code set creating a [V language](https://github.com/vlang/v) version of the [STTP API](https://sttp.info). The code set [/sttp](/sttp) was generated from the [STTP Go API](https://github.com/sttp/goapi) version using V [go2v](https://github.com/vlang/go2v) command line utility.
+This is an initial pass at a code set creating a [V language](https://github.com/vlang/v) version of the [STTP API](https://sttp.info). The code set [/sttp](/sttp) was generated from the [STTP Go API](https://github.com/sttp/goapi) version using the [go2v](https://github.com/vlang/go2v) command line utility.
